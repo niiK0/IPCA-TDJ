@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>d:/IPCA/1.2 TDJ/TDJ_1/Content/Sound/hitnormal.mp3</SourceFile>
+  <SourceTime>2022-05-24T21:51:13.99337+01:00</SourceTime>
+  <DestFile>d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Sound/hitnormal.xnb</DestFile>
+  <DestTime>2022-05-28T17:33:04.956096+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,21 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Controls/SimpleButton.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Controls/SimpleButton.xnb","TextureProcessor","Texture2DContent",992,120085,0.2477936
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Controls/StartBtn.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Controls/StartBtn.xnb","TextureProcessor","Texture2DContent",881,40085,0.0047876
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Font/File.spritefont","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Font/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2005,267298,0.1550059
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Font/Font.spritefont","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Font/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37922,0.0184594
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/bar.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/bar.xnb","TextureProcessor","Texture2DContent",763,26085,0.0048872
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/down.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/down.xnb","TextureProcessor","Texture2DContent",3744,40085,0.0034784
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/fallingDown.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingDown.xnb","TextureProcessor","Texture2DContent",13652,40085,0.0033125
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/fallingLeft.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingLeft.xnb","TextureProcessor","Texture2DContent",13823,40085,0.0044471
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/fallingRight.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingRight.xnb","TextureProcessor","Texture2DContent",13750,40085,0.0029775
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/fallingTop.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingTop.xnb","TextureProcessor","Texture2DContent",13723,40085,0.0039756
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/left.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/left.xnb","TextureProcessor","Texture2DContent",3689,40085,0.0035607
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/pressedDown.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/pressedDown.xnb","TextureProcessor","Texture2DContent",3647,40085,0.0039284
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/pressedLeft.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/pressedLeft.xnb","TextureProcessor","Texture2DContent",3672,40085,0.0038081
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/pressedRight.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/pressedRight.xnb","TextureProcessor","Texture2DContent",3672,40085,0.0028588
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/pressedTop.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/pressedTop.xnb","TextureProcessor","Texture2DContent",3617,40085,0.0029171
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/right.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/right.xnb","TextureProcessor","Texture2DContent",3678,40085,0.003199
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Img/top.png","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Img/top.xnb","TextureProcessor","Texture2DContent",3735,40085,0.0030065
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Sound/combobreak.mp3","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Sound/combobreak.xnb","SoundEffectProcessor","SoundEffectContent",7191,73833,2.5667531
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Sound/hitnormal.mp3","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Sound/hitnormal.xnb","SoundEffectProcessor","SoundEffectContent",3387,32361,1.4278286
+"d:/IPCA/1.2 TDJ/TDJ_1/Content/Sound/nevergoing.mp3","d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Sound/nevergoing.xnb","SongProcessor","SongContent",2189012,128,3.6097884
